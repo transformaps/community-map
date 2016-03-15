@@ -1,0 +1,1336 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.357911, 43.663062]
+		},
+		"properties": {
+			"name": "220 Oak St",
+			"styleUrl": "#icon-503-FAD199",
+			"styleHash": "-27e9e30e",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.220OakStreetCommunityGarden)<br><br>Location:220 Oak St.<br>Contact:Cassandra Coward (temporary)<br>Email:Cassandra.Coward@torontohousing.ca<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.441503, 43.701887]
+		},
+		"properties": {
+			"name": "855 Roselawn Ave",
+			"styleUrl": "#icon-503-FFDD5E",
+			"styleHash": "5391b65a",
+			"description": "Info Page<br><br>Location: 855 Roselawn Ave<br>Contact: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.40086, 43.647052]
+		},
+		"properties": {
+			"name": "Alex Wilson Community Garden",
+			"styleUrl": "#icon-503-4186F0",
+			"styleHash": "-119798d1",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.AlexWilsonCommunityGarden)<br><br>Location: 552 Richmond St W<br>Contact:Richard Brault<br>Email:innova@bellnet.ca<br>Phone:n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.404126, 43.651432]
+		},
+		"properties": {
+			"name": "Alexandra Park Diversity Garden",
+			"styleUrl": "#icon-503-F9F7A6",
+			"styleHash": "-c1ee6bd",
+			"description": "Info Page (http://tcgn.ca/wiki/wiki.php?n=TorontoGardens.ScaddingCourtGarden)<br><br>Location: 707 Dundas St W<br>Contact: Krista Fry<br>Email: kristaf@scaddingcourt.org <br>Phone: (416)392-0335, ext. 243 <br>Website: http://www.scaddingcourt.org/"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.446572, 43.720509]
+		},
+		"properties": {
+			"name": "Amaranth Community Garden",
+			"styleUrl": "#icon-503-A61B4A",
+			"styleHash": "-4545ad23",
+			"description": "Info Page<br><br>Location: n/a<br>Contact: n/a<br>Email: n/a<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.316375, 43.668993]
+		},
+		"properties": {
+			"name": "Ashbridges Eco Garden",
+			"styleUrl": "#icon-503-D698AD",
+			"styleHash": "150809de",
+			"description": "Info Page<br><br>Location: 101 Coxwell Ave<br>Contact: n/a<br>Email: n/a<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.347416, 43.67225]
+		},
+		"properties": {
+			"name": "Bain Community Garden",
+			"styleUrl": "#icon-503-B29189",
+			"styleHash": "-59d5bc2d",
+			"description": "Info Page (http://tcgn.ca/wiki/wiki.php?n=TorontoGardens.BainCommunityGarden)<br><br>Location:100 Bain Ave<br>Website:www.100bain.com (http://www.100bain.com/)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.492525, 43.637939]
+		},
+		"properties": {
+			"name": "Bell Manor Garden",
+			"styleUrl": "#icon-503-C6A4CF",
+			"styleHash": "-78678ded",
+			"description": "Info Page (http://tcgn.ca/wiki/wiki.php?n=TorontoGardens.BellManorGarden)<br><br>Location: Bell Manor Drive<br>Contact: Julia Graham<br>Email: julia.graham@stonegatechc.org<br>Phone:(416) 231-7070 ext. 229<br>Website:www.stonegatechc.org (http://www.stonegatechc.org/)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.370798, 43.665366]
+		},
+		"properties": {
+			"name": "Bill and Bob's Garden",
+			"styleUrl": "#icon-503-B7DBAB",
+			"styleHash": "5760d1be",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.BillAndBobsGarden)<br><br>Location: 21 Winchester St<br>Contact: Terry Roberts<br>Email: terrybob111@yahoo.com<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.161203, 43.800565]
+		},
+		"properties": {
+			"name": "Bob Hunter Community Garden",
+			"styleUrl": "#icon-503-795046",
+			"styleHash": "-48a67177",
+			"description": "Info Page<br><br>Location:Bob Hunter Park<br>Contact:Cecile<br>Email:eastrougeca@gmail.com"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.545991, 43.728982]
+		},
+		"properties": {
+			"name": "Braeburn Neighbourhood Place Community Garden",
+			"styleUrl": "#icon-503-62AF44",
+			"styleHash": "-1ccf8755",
+			"description": "Info Page<br><br>Location: 75 Tandridge Cres<br>Contact: Savi Kolenda<br>Email: skolenda@braeburn.net<br>Phone: (416) 745-3113"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.44809, 43.658151]
+		},
+		"properties": {
+			"name": "Campbell-Rankin Community Garden",
+			"styleUrl": "#icon-503-9FC3FF",
+			"styleHash": "-36c81839",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.Campbell-RankinCommunityGarden)<br><br>Location: Rankin Ave. at Symington Ave.<br>Contact: Joe<br>Email: jat_29@hotmail.com <br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.457752, 43.842857]
+		},
+		"properties": {
+			"name": "Carrville Community Garden",
+			"styleUrl": "#icon-503-7C3592",
+			"styleHash": "-5683d6cf",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.CarrivlleCommunityGarden)<br><br>Location: 9100 Bathurst St, Richmond Hill<br>Contact: Leslie Atkinson/ Marcia Garel<br>Email: ccg2011organizers@gmail.com<br>Phone: (416) 554-4811<br>Website: http://www.facebook.com/pages/Carrville-Community-Garden/168029616582112"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.398339, 43.656312]
+		},
+		"properties": {
+			"name": "Cecil Community Centre Garden",
+			"styleUrl": "#icon-503-CDDC39",
+			"styleHash": "7b736830",
+			"description": "Info Page<br><br>Location: 58 Cecil St<br>Contact: n/a<br>Email: n/a <br>Phone: (416) 392-1090"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.428895, 43.690883]
+		},
+		"properties": {
+			"name": "Cedarvale Park Childrens' Garden",
+			"styleUrl": "#icon-503-3F5BA9",
+			"styleHash": "-857141e",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.CedarvaleParkChildrenSGarden)<br><br>Location: Cedarvale Park, near Durham Ave Entrance<br>Contact:Claire Rodger<br>Email: crodger@sympatico.ca<br>Phone: (416)656-5475<br>Website: http://www.cedarvalepark.com/2011/05/05/cedarvale-childrens-community-garden/"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.51215, 43.72449]
+		},
+		"properties": {
+			"name": "Chalkfarm Community Garden",
+			"styleUrl": "#icon-503-F8971B",
+			"styleHash": "4a0ae00b",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.ChalkfarmCommunityGarden)<br><br>Location: 180 Chalkfarm Dr, North York<br>Contact: n/a<br>Email: mail@tcgn.ca<br>Phone: n/a<br>Website: www.doorsteps.ca (http://www.doorsteps.ca/)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.332345, 43.799454]
+		},
+		"properties": {
+			"name": "Chester Le Olive Garden",
+			"styleUrl": "#icon-503-93D7E8",
+			"styleHash": "-2b070936",
+			"description": "Info Page<br><br>Location: 255 Chester Le Blvd<br>Contact: Sarpreet Khera<br>Email: ksarpreet@agincourtcommunityservices.com<br>Phone: (416) 321-6912 x225"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.421883, 43.663727]
+		},
+		"properties": {
+			"name": "Christie Pits Community Garden",
+			"styleUrl": "#icon-503-009D57",
+			"styleHash": "-24ec7ee9",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.ChristiePitsCommunityGarden)<br><br>Location: Christie Pits Park 750 Bloor Street West <br>Contact: Neil Dallhoff and Nikki Rochon<br>Email:  CPCGTO@gmail.com<br>Phone: n/a <br>Website: www.christiepits.ca (http://www.christiepits.ca)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.354248, 43.775943]
+		},
+		"properties": {
+			"name": "Dallington Pollinators Garden",
+			"styleUrl": "#icon-503-F4EB37",
+			"styleHash": "-7bf2a647",
+			"description": "Info Page<br><br>Location: Dallington Park<br>Contact: Mahnaz Galib<br>Email: mahnaz.galib@yahoo.com <br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.395929, 43.661102]
+		},
+		"properties": {
+			"name": "Dig In! Campus Agriculture",
+			"styleUrl": "#icon-503-E6EEA3",
+			"styleHash": "-44fbf073",
+			"description": "Info Page<br><br>Location: 27 Kings College Circle<br>Contact: Clara Luke<br>Email: campusagriculture@gmail.com (http://campusagriculture.ca/reach-us/campusagriculture@gmail.com)<br>Phone: n/a<br>Website: http://campusagriculture.ca"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.434019, 43.652801]
+		},
+		"properties": {
+			"name": "Dragon Alley Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: 9 Bonar Place<br>Contact: Sophia IInyak<br>Email: SophiaIInyak@hotmail.com<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.43382, 43.656133]
+		},
+		"properties": {
+			"name": "Dufferin Grove Recreation-led Community Gardens",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.DufferinGroveRecreation-ledCommunityGardens)<br><br>Location: 875 Dufferin St<br>Contact: n/a<br>Email: mail@tcgn.ca<br>Phone: n/a<br>Website: www.dufferinpark.ca/gardens/wiki/wiki.php (http://www.dufferinpark.ca/gardens/wiki/wiki.php)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.347186, 43.76393300000001]
+		},
+		"properties": {
+			"name": "Duncan Mills Co-op Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: 2040 Don Mills Rd<br>Contact: Mary Hynes<br>Email: marythynes@rogers.com<br>Phone: (416) 644-7886"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.451728, 43.673784]
+		},
+		"properties": {
+			"name": "Earlscourt Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://tcgn.ca/wiki/wiki.php?n=TorontoGardens.EarlscourtGarden)<br><br>Location: 1369 St. Clair Ave<br>Contact: Urban Agriculture Coordinator<br>Email: urbanag@thestop.org<br>Phone: (416)652-7867 X 241<br>Website:  www.thestop.org (http://www.thestop.org/)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.311219, 43.697564]
+		},
+		"properties": {
+			"name": "East York Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://tcgn.ca/wiki/wiki.php?n=TorontoGardens.EastYorkCommunityGarden)<br><br>Location: 9 Haldon Ave<br>Contact: n/a<br>Email:   eastyorkgarden@hotmail.com<br>Phone: n/a<br>Website:  www.eycg.ca (http://www.eycg.ca/)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.403128, 43.667505]
+		},
+		"properties": {
+			"name": "Ecology Park",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: 25 Madison Ave, west side just north of Bloor St.W<br>Contact: Mickey Fraterman<br>Email: secretary@theara.org<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.405854, 43.707407]
+		},
+		"properties": {
+			"name": "Eglinton Park Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://tcgn.ca/wiki/wiki.php?n=TorontoGardens.EglintonParkHeritageGarden)<br><br>Location:200 Eglinton Ave W<br>Contact: Colette Slone<br>Email: garden@torontogreen.ca<br>Phone: (416) 781-7663<br>Website: http://torontogreen.ca"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.505158, 43.685426]
+		},
+		"properties": {
+			"name": "Emmett Ave Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://tcgn.ca/wiki/wiki.php?n=TorontoGardens.EmmettAveGarden)<br><br>Location: 101 Emmett Ave<br>Contact: Garden Coordinator<br>Email: garden@communityarc.ca   <br>Phone: (416) 652-2273<br>Website: www.communityarc.ca/emmett_garden.html"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.326412, 43.713995]
+		},
+		"properties": {
+			"name": "Flemingdon Park Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: 150 Grenoble Dr<br>Contact: n/a<br>Email: n/a<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.448938, 43.721461]
+		},
+		"properties": {
+			"name": "Flemington Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: 103 Flemington Rd<br>Contact: n/a<br>Email: n/a<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.438571, 43.658166]
+		},
+		"properties": {
+			"name": "FoodShare Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.FoodShareCommunityGarden)<br><br>Location: 90 Croatia St<br>Contact: Mary Roufail<br>Email: mary@foodshare.net<br>Phone: (416)363-6441 x227<br>Website:  foodshare.net"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.405351, 43.638475]
+		},
+		"properties": {
+			"name": "Fort York Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.FortYorkCommunityGarden)<br><br>Location: 100 Garrison Rd<br>Contact: Cathy Ord<br>Email: cathyord@sympatico.ca<br>Phone: n/a<br>Website: www.fortyork.ca (http://www.fortyork.ca/)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.423152, 43.673357]
+		},
+		"properties": {
+			"name": "Frankel Lambert Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.FrankelLambertCommunityGarden)<br><br>Location: 600 Melita Crescent<br>Contact: n/a<br>Email: frankellambertgarden@gmail.com<br>Phone:n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.420024, 43.651774]
+		},
+		"properties": {
+			"name": "Fred's Wildflower Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: Fred Hamilton Playground -155 Roxton Rd.<br>Contact: n/a<br>Email: n/a<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.371473, 43.655999]
+		},
+		"properties": {
+			"name": "Gabrielle-Roy Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: 14 Pembroke St<br>Contact: Sunday Harrison<br>Email: Info@kidsgrowing.ca<br>Phone: ((647) 348-5437<br>Website: http://www.kidsgrowing.ca/"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.410599, 43.640815]
+		},
+		"properties": {
+			"name": "Garrison Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.GarrisonCommunityGarden)<br><br>Location: 805 Wellington St W<br>Contact: Johnny Chiang<br>Email: garrisongarden@hotmail.com<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.37490100000001, 43.672109]
+		},
+		"properties": {
+			"name": "Glen Rd Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.GlenRoadGarden)<br><br>Location: On Glen Rd at the back exit of Sherbourne Subway Station<br>Contact: n/a<br>Email: mail@tcgn.ca<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.500927, 43.703567]
+		},
+		"properties": {
+			"name": "Good Soil Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location:  1796 Lawrence Ave W<br>Contact: Nastassja Harris<br>Email: goodsoilgarden@gmail.com<br>Phone: (416) 249-4681"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.328896, 43.669924]
+		},
+		"properties": {
+			"name": "Greenwood Park Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: n/a<br>Contact: n/a<br>Email: n/a<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.449666, 43.803155]
+		},
+		"properties": {
+			"name": "Growing to Give Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://tcgn.ca/wiki/wiki.php?n=TorontoGardens.GrowingToGiveGarden)<br><br>Location: 835 Clark Ave W<br>Contact: Lynne Koss<br>Email: info@seedsforchangegardens.org<br>Phone: (905) 597-3316<br>Website: http://seedsforchangegardens.org/index.php"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.505046, 43.607095]
+		},
+		"properties": {
+			"name": "Growing For Change Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.GrowingForChangeCommunityGarden)<br><br>Location:191 New Toronto St, Etobicoke<br>Contact: Nikki McAlister<br>Email: nikki@dailybread.ca<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.363112, 43.649446]
+		},
+		"properties": {
+			"name": "Harmony Gardens",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br><br>Location: 33 Hahn Pl<br>Contact: Maurice-Pierre Joanis<br>Email: joanismp@hotmail.com <br>Phone: n/a<br>Website: www.caheritage.org (http://www.caheritage.org/)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.424028, 43.676377]
+		},
+		"properties": {
+			"name": "Hillcrest Park Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.HillcrestParkCommunityGarden)<br><br>Location: Christie and Davenport<br>Contact: Mandy<br>Email: mandy@thestop.org<br>Phone: (416) 651-7867 ext. 25 <br>Website: http://www.thestop.org/community-gardens"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.433105, 43.64028400000001]
+		},
+		"properties": {
+			"name": "H.O.P.E Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://tcgn.ca/wiki/wiki.php?n=TorontoGardens.HopeGarden)<br><br>Location: 220 Cowan Ave. in Masaryk Park<br>Contact: Rachel Parks<br>Email: rachel@greenestcity.ca<br>Phone: hopecommunitygarden.wordpress.com (http://hopecommunitygarden.wordpress.com/) <br>Website:"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.398215, 43.657735]
+		},
+		"properties": {
+			"name": "Huron Street Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: Behind Lillian Smith Library on 239 College St. <br>Contact: Alistair Brown<br>Email: alastairbrown@rogers.com<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.354174, 43.680853]
+		},
+		"properties": {
+			"name": "Jackman Milennium Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://tcgn.ca/wiki/wiki.php?n=TorontoGardens.JackmanMillenniumGarden)<br><br>Location: 79 Jackman Ave<br>Contact: Camilla Troughton<br>Email: Camila_Troughton@msn.com<br>Phone: (416) 393- 9701"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.589145, 43.734306]
+		},
+		"properties": {
+			"name": "Jamestown Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: Masseygrove Park - 10 Rampart Rd.<br>Contact: n/a<br>Email: n/a<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.46495, 43.854093000000006]
+		},
+		"properties": {
+			"name": "Kavanah Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location:18 Lebovic Campus Dr<br>Contact: Sabrina Malach<br>Email: sabrina@shoresh.ca<br>Phone: (416) 805-8382<br>Website: http://shoresh.ca/kavanah_garden"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.445352, 43.723087]
+		},
+		"properties": {
+			"name": "Leila Lane Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: 1 Leila Lane<br>Contact: n/a<br>Email: n/a<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.205407, 43.816608]
+		},
+		"properties": {
+			"name": "Littles Rd Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: Just west of 525 Sewell's Rd.<br>Contact: Alex Dow<br>Email:  adow@mfrc.org<br>Phone: (416) 284-6005 ext 36"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.467971, 43.70657]
+		},
+		"properties": {
+			"name": "Lotherton Pathway Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: 109 Lotherton Pathway<br>Contact: n/a<br>Email: n/a<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.508525, 43.76773]
+		},
+		"properties": {
+			"name": "Maloca Garden @ York University",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.MalocaCommunityGardenYork)<br><br>Location: York University, 4700 Keele St<br>Contact: n/a<br>Email: maloca.yorku@gmail.com<br>Phone: n/a<br>Website: http://malocagarden.wordpress.com/"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.284753, 43.79975]
+		},
+		"properties": {
+			"name": "Midland Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://tcgn.ca/wiki/wiki.php?n=TorontoGardens.2850Midland-CG)<br><br>Location: 2850 Midland Ave<br>Contact: Hanbo Jia<br>Email:jhanbo@agincourtcommunityservices.com <br>Phone: (416) 321-6912 x225"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.400982, 43.686471000000004]
+		},
+		"properties": {
+			"name": "Ministry of the Environment Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: 135 St Clair Ave W<br>Contact: Laura Blease<br>Email: laura.blease@ontario.ca<br>Phone:"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.401048, 43.642052]
+		},
+		"properties": {
+			"name": "MINTO Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://tcgn.ca/wiki/wiki.php?n=TorontoGardens.25Niagara-MINTO-CommunityGarden-July2014)<br><br>Location: 25 Niagara St (empty lot across from 20 Niagara St.)<br>Contact: Krista Fry<br>Email: kristaf@scaddingcourt.org"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.373787, 43.660877]
+		},
+		"properties": {
+			"name": "Miziwe Biik Aboriginal Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: 167 Gerrard St E<br>Contact: Seeding Healthy Communities<br>Email: info@evergreen.ca<br>Phone: (416) 596-1495<br>Website: http://www.miziwebiik.com/"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.36995500000002, 43.655508]
+		},
+		"properties": {
+			"name": "Moss Park Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: Sherbourne and Shutter, behind John Innes Community Centre<br>Contact: Jeanne Mott<br>Email: jhmott@sympatico.ca<br>Phone: (416) 657-8801"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.34574400000001, 43.65979]
+		},
+		"properties": {
+			"name": "Mustard Seed Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: 791 Queen St E<br>Contact: Sister Gwen Smith<br>Email: gsmith@csj-to.ca<br>Phone: (416) 465-6069"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.260242, 43.820583]
+		},
+		"properties": {
+			"name": "Nashdene Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.200TiffieldRd)<br><br>Location: 200 Tiffield Rd<br>Contact: Hanbo Jia<br>Email: jhanbo@agincourtcommunityservices.com Phone: (416) 321-6912 x225"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.225802, 43.813093]
+		},
+		"properties": {
+			"name": "Neilson Park Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: Neilson Park - 1575 Neilson Rd.<br>Contact: Alex Dow<br>Email:  adow@mfrc.org<br>Phone: (416) 284-6005 ext 36"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.518759, 43.646233]
+		},
+		"properties": {
+			"name": "New Horizons Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://tcgn.ca/wiki/wiki.php?n=TorontoGardens.NewHorizonsGarden)<br><br>Location: Thomas Riley Park, Islington and Bloor<br>Contact: Zora<br>Email: artdecos@rogers.com<br>Phone: (416) 463-9031<br>Website: www.newhorizonsgarden.ca (http://www.newhorizonsgarden.ca/)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.415145, 43.787296]
+		},
+		"properties": {
+			"name": "Newtonbrook Neighbourhood Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: 53 Cummer Ave<br>Contact: Janet Love<br>Email:  j-i-love@rogers.com<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.444113, 43.774239]
+		},
+		"properties": {
+			"name": "Northview Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.NorthviewCommunityGarden-2013)<br><br>Location: 540 Finch Av. West <br>Contact: Unison Health and Community Services<br>Email: n/a <br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.512954, 43.748072]
+		},
+		"properties": {
+			"name": "Oakdale Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: 350 Grandravine Dr.<br>Contact: n/a<br>Email: n/a<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.333552, 43.679504]
+		},
+		"properties": {
+			"name": "Oakvale Green Community Gardens",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.OakvaleGreens)<br><br>Location: 78 Oakvale Avenue<br>Contact: Nicholas<br>Email: oakvalegardens@gmail.com <br>Phone: n/a<br>Website: oakvalegardens.ca (http://oakvalegardens.ca/)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.403146, 43.697632]
+		},
+		"properties": {
+			"name": "Oriole Park Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://tcgn.ca/wiki/wiki.php?n=TorontoGardens.OrioleParkCommunityGarden-April2015 )<br><br>Location: 201 Oriole Parkway<br>Contact: OPCG Steering Committee<br>Email: orioleparkcommunitygarden@gmail.com<br>Phone: n/a<br>Website: www.orioleparkcommunitygarden.wordpress.com"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.349525, 43.780345]
+		},
+		"properties": {
+			"name": "Oriole Peanut Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.OriolePeanutCommunityGarden)<br><br>Location: 2800 Don Mills Road West<br>Contact: Diana Grimaldos<br>Email: dkgrimaldos@workingwomencc.org <br>Phone: n/a<br>Website: www.oriolepeanutgarden.wordpress.com (http://www.oriolepeanutgarden.wordpress.com/)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.484239, 43.743228]
+		},
+		"properties": {
+			"name": "Parc Downsview Park Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: 70 Canuck Ave<br>Contact: n/a<br>Email: torontocompost@gmail.com<br>Phone: n/a<br>Website: http://www.downsviewpark.ca/"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.58999, 43.736635]
+		},
+		"properties": {
+			"name": "PACT Elmbank Academy",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.PACTGardens)<br>Location: 10 Pittsboro Dr.<br>Contact: Bonnie Scott<br>Email: elmbankgarden@gmail.com<br>Phone: 416 697-1027<br>Website: pactprogram.ca (http://pactprogram.ca/pact-programs/lifeskills-community-service-projects/pactfarm-and-grow-to-learn-gardening-project/)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.539258, 43.748287]
+		},
+		"properties": {
+			"name": "PACT Emery Collegiate",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.PACTGardens)<br>Location: 3395 Weston Rd<br>Contact: Bonnie Scott<br>Email: emerygarden@gmail.com<br>Phone: 416-697-1027<br>Website: pactprogram.ca (http://pactprogram.ca/pact-programs/lifeskills-community-service-projects/pactfarm-and-grow-to-learn-gardening-project/)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.439812, 43.71742]
+		},
+		"properties": {
+			"name": "PACT John Polanyi",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.PACTGardens)<br><br>Location: 640 Lawrence Ave W<br>Contact: Adam Dirks<br>Email: polanyigarden@gmail.com<br>Phone: 647 710-0309<br>Website: http://pactprogram.ca/pact-programs/lifeskills-community-service-projects/pactfarm-and-grow-to-learn-gardening-project/"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.518623, 43.601798]
+		},
+		"properties": {
+			"name": "PACT Lakeshore Collegiate",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.PACTGardens)<br>Location: 350 Kipling Ave<br>Contact: Agata Gidzinski<br>Email: lcigarden@gmail.com<br>Phone: 647 385-2599<br>Website: pactprogram.ca (http://pactprogram.ca/pact-programs/lifeskills-community-service-projects/pactfarm-and-grow-to-learn-gardening-project/)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.562396, 43.727306]
+		},
+		"properties": {
+			"name": "PACT Thistletown Collegiate",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.PACTGardens)<br>Location: 20 Fordwich Crescent<br>Contact: Ben Postance<br>Email: tcigarden@gmail.com<br>Phone: 647 278-0546<br>Website: pactprogram.ca (http://pactprogram.ca/pact-programs/lifeskills-community-service-projects/pactfarm-and-grow-to-learn-gardening-project/)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.58642, 43.730732]
+		},
+		"properties": {
+			"name": "PACT West Humber Collegiate",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.PACTGardens)<br>Location: 1675 Martin Grove Rd<br>Contact: Patricia Youn<br>Email: westhumbergarden@gmail.com<br>Phone: 647 529-7773<br>Website: pactprogram.ca (http://pactprogram.ca/pact-programs/lifeskills-community-service-projects/pactfarm-and-grow-to-learn-gardening-project/)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.58233700000001, 43.746788]
+		},
+		"properties": {
+			"name": "Panorama Park Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: 31 Panorama Ct<br>Contact: Jim Graham<br>Email: jpbarnet@sympatico.ca<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.411229, 43.771492]
+		},
+		"properties": {
+			"name": "Parkview Neighbourhood Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.ParkviewNeighbourhoodGarden)<br><br>Location: 34 Parkview Ave<br>Contact: n/a<br>Email: pngvolunteers@gmail.com<br>Phone: n/a<br>Website: parkviewneighbourhoodgarden.org (http://parkviewneighbourhoodgarden.org/)."
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.45224, 43.666839]
+		},
+		"properties": {
+			"name": "Perth Dupont Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://tcgn.ca/wiki/wiki.php?n=TorontoGardens.PerthDupontGarden)<br><br>Location: 360 Symington Ave.<br>Contact: Susan Berman<br>Email: perth-dupontcg@frogstar.com<br>Phone: (416) 762-8524<br>Website: perth-dupont.parkcommons.ca (http://perth-dupont.parkcommons.ca/)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.400412, 43.92139]
+		},
+		"properties": {
+			"name": "Phyllis Rawlinson Park Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: 11715 Leslie Street, Richmond Hill<br>Contact: n/a <br>Email: n/a<br>Phone: (416)-596-1495 x 226<br>Website: http://www.town.richmond-hill.on.ca/homepage.asp"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.284929, 43.697223]
+		},
+		"properties": {
+			"name": "Prairie Drive Park",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: on Pharmacy Avenue north of Danforth, in Prairie Drive Park (across the street from Teesdale Place).<br>Contact: There are two gardens side-by-side. Each one is administered by a different organization. More information is<br>available from these two organizations:<br> <br>Garden #1 Contact: SAWRO – South Asian Women’s Rights Organization<br>108- 10 Teesdale Place<br> <br>Garden #2 Contact: Access Alliance Multicultural Health & Community Services 3079 Danforth Avenue<br>(416) 699-7920 ext.405<br>lmrosovsky@accessalliance.ca"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.36601400000002, 43.648244]
+		},
+		"properties": {
+			"name": "Princess Street Park",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.PrincessParkChildrensPlayGarden)<br><br>Location: West side of Princess Street just north of Scadding Ave<br>Contact: Dan O'Leary<br>Email: dogardennow@gmail.com<br>Phone: n/a<br>Website:"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.36181900000001, 43.667226]
+		},
+		"properties": {
+			"name": "Riverdale Farm Childrens' Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: 201 Winchester St<br>Contact: Sunday Harrison<br>Email: sunday@kidsgrowing.ca<br>Phone: (647) 348-5437<br>Website: http://www.kidsgrowing.ca/what-we-do/programs-site/riverdale-farm"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.360353, 43.675875]
+		},
+		"properties": {
+			"name": "Riverdale Meadow Community Garden 1 Danforth Ave",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://tcgn.ca/wiki/wiki.php?n=TorontoGardens.RiverdaleMeadowGarden)<br><br>Location: 1 Danforth Ave<br>Contact: George A. Moore<br>Email: rmcommunitygarden@sympatico.ca <br>Phone: (416)469-4089 ex 1.<br>Website: www.riverdalemeadow.ca"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.453989, 43.786056]
+		},
+		"properties": {
+			"name": "Rockford Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: 60 Rockford Road<br>Contact: Mikaela<br>Email: bfgarden@gmail.com<br>Phone: 647-436-0385"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.339201, 43.661141]
+		},
+		"properties": {
+			"name": "Rooftop Garden, SRCHC",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.RoofTopGardenSRCHC)<br><br>Location: 955 Queen St E<br>Contact: Caryn Thompson<br>Email: cthompson@srchc.com<br>Phone: (416)461-1925 ext. 253<br>Website: http://www.srchc.ca/  (http://www.srchc.ca/)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.19895800000002, 43.765871]
+		},
+		"properties": {
+			"name": "R.O.S.E Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://tcgn.ca/wiki/wiki.php?n=TorontoGardens.ROSEGarden-Sept2012)<br><br>Location: 4040 Lawrence Ave E<br>Contact: Dip Habib<br>Email: diph@thestorefront.org<br>Phone: (647) 347-1693 Ext.26<br>Website: www.thestorefront.org"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.372908, 43.669627]
+		},
+		"properties": {
+			"name": "Rose Avenue Public School",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: 675 Ontario St<br>Contact: Sunday Harrison<br>Email: sunday@kidsgrowing.ca<br>Phone: (647) 348-5437<br>Website: http://www.kidsgrowing.ca/what-we-do/programs-site/rose-avenue-public-school"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.45312, 43.710999]
+		},
+		"properties": {
+			"name": "San Lorenzo Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.SanLorenzoCommunityOrganicGarden)<br><br>Location: 22 Wenderly Dr<br>Contact: Julieta Duque<br>Email: jduque@primus.ca<br>Phone: n/a <br>Website: sanlorenzo.ca"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.214404, 43.741594]
+		},
+		"properties": {
+			"name": "Scarborough Village Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.ScarboroughVillageCommunityGarden)<br><br>Location: 3630 Kingston Rd <br>Contact: John Doleweerd<br>Email:  jdolew@yahoo.com<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.55617, 43.647081]
+		},
+		"properties": {
+			"name": "St.James Church Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location:  400 Burnhamthorpe Rd<br>Contact: n/a<br>Email: stjames_uc@rogers.com<br>Phone: (416) 622-4113<br>Website: http://www.stjamesunitedchurch.com/communitygarden.htm"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.373117, 43.669279]
+		},
+		"properties": {
+			"name": "St. James Town Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: 666 Ontario St<br>Contact: Lara Mrosovsky<br>Email: lara.lucretia@gmail.com<br>Phone: (416) 921-8716"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.37418, 43.718057]
+		},
+		"properties": {
+			"name": "Spiral Garden at Bloorview Kids Rehab",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: 150 Kilgour Rd<br>Contact: Sara Dobbs<br>Email: sdobbs@bloorview.ca<br>Phone: (416) 425-6220, ext.3474"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.240434, 43.738703]
+		},
+		"properties": {
+			"name": "The Always Growing Gardens",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.TheAlwaysGrowingGardens)<br><br>Location: McCowan Rd.& Eglinton Ave. E.<br>Contact: Dennis Drum<br>Email: dennis.drum@sympatico.ca<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.45729900000002, 43.655208]
+		},
+		"properties": {
+			"name": "The Garden Party at Redeemer Lutheran",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://tcgn.ca/wiki/wiki.php?n=TorontoGardens.TheGardenParty)<br><br>Location:  1691 Bloor St W<br>Contact: Louis Gris<br>Email: info@thegardenparty.ca<br>Phone: (416)766-0934<br>Website: www.thegardenparty.ca"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.343071, 43.703613]
+		},
+		"properties": {
+			"name": "Thorncliffe Family Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.ThorncliffeFamilyGarden)<br><br>Location: RV Burgess Park - 48 Thorncliffe Park Drive.<br>Contact: Amy Sutherland<br>Email:  amy@quist.ca<br>Phone: n/a <br>Website: thorncliffegarden.blogspot.ca"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.34449, 43.709974]
+		},
+		"properties": {
+			"name": "Thorncliffe Park Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.ThorncliffeParkGardenClub)<br><br>Location: On hydro land north of Overlea Blvd.<br>Contact: n/a <br>Email: mail@tcgn.ca <br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.383591, 43.624561]
+		},
+		"properties": {
+			"name": "Toronto Island Sailing Club Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.TorontoIslandSailingClub)<br><br>Location: On Toronto Island, next to and surrounding the Sailing Club clubhouse<br>Contact: Liz McGroarty<br>Email: liz.mcg@sympatico.ca<br>Phone: n/a <br>Website: www.torontosailing.com (http://www.torontosailing.com/)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.396586, 43.65978]
+		},
+		"properties": {
+			"name": "U of T - The Sky Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://www.tcgn.ca/wiki/wiki.php?n=TorontoGardens.U-of-T-TheSkyGarden)<br><br>Location: 35 St George St<br>Contact: n/a<br>Email: urbanagriculturesociety@gmail.com<br>Phone: n/a<br>Website: uas.sa.utoronto.ca (http://uas.sa.utoronto.ca/)"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.495048, 43.670533]
+		},
+		"properties": {
+			"name": "Unison Health & Community Services Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: Marie Baldwin Park - 5 Foxwell Ave.<br>Contact: n/a<br>Email: n/a<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.403257, 43.69087]
+		},
+		"properties": {
+			"name": "Upper Canada College Learning Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://tcgn.ca/wiki/wiki.php?n=TorontoGardens.UCCLearningGarden)<br><br>Location: 200 Lonsdale Rd<br>Contact: Lori Burnison<br>Email: lburnison@ucc.on.ca<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.441597, 43.719877]
+		},
+		"properties": {
+			"name": "Varna Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: Flemington Rd. & Varna Dr<br>Contact: n/a<br>Email: n/a<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.32152100000002, 43.755896]
+		},
+		"properties": {
+			"name": "Victoria Park Collegiate Institute",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br> <br>Location:  15 Wallingford Road<br>Contact:  Tobey Schwartz<br>Email: Tobey.Schwartz@tdsb.on.ca<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.526658, 43.703642]
+		},
+		"properties": {
+			"name": "Weston Rd Container Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: 2240 Weston Rd<br>Contact: Andy Arfin<br>Email: livegreen@acorncanada.org<br>Phone: (416) 461-9233"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.443313, 43.659183]
+		},
+		"properties": {
+			"name": "West End Flower Fairies (Emerson)",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://tcgn.ca/wiki/wiki.php?n=TorontoGardens.WestEndFlowerFairyGardens)<br><br>Location: 1287 Bloor Street West<br>Contact: n/a <br>Email: westendflowerfairies@hotmail.com<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.446084, 43.639515]
+		},
+		"properties": {
+			"name": "West End Flower Fairies (Grafton)",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://tcgn.ca/wiki/wiki.php?n=TorontoGardens.WestEndFlowerFairyGardens)<br><br>Location: Just south of 27 Roncesvalles, in the Grafton Ave. Parkette <br>Contact: n/a<br>Email: westendflowerfairies@hotmail.com<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.426617, 43.662842]
+		},
+		"properties": {
+			"name": "West End Flower Fairies (Northumberland Concord)",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://tcgn.ca/wiki/wiki.php?n=TorontoGardens.WestEndFlowerFairyGardens)<br><br>Location: One block north of Bloor and Ossington<br>Contact: n/a<br>Email: westendflowerfairies@hotmail.com<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.371494, 43.666472]
+		},
+		"properties": {
+			"name": "Winchester School Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://tcgn.ca/wiki/wiki.php?n=TorontoGardens.WinchesterGarden)<br><br>Location: 15 Prospect St<br>Contact: Sunday Harrison<br>Email: Sunday@kidsgrowing.ca<br>Phone: (647) 348-5437<br>Website: http://www.kidsgrowing.ca/"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.371146, 43.664281]
+		},
+		"properties": {
+			"name": "Winchester Square Park Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: 474 Ontario St.<br>Contact: n/a<br>Email: n/a<br>Phone: n/a"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.381784, 43.661376]
+		},
+		"properties": {
+			"name": "Women's Health in Women's Hands Rooftop Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page<br><br>Location: 2 Carlton St<br>Contact: Vivia Mc Calla<br>Email: vivia@whiwh.com<br>Phone: (416) 263-4874]<br>Website: http://www.whiwh.com/"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.4557, 43.984431]
+		},
+		"properties": {
+			"name": "YRFN Aurora Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://tcgn.ca/wiki/wiki.php?n=TorontoGardens.YorkRegionFoodNetworkCommunityGardens-Nov2012)<br><br>Location: 350 Industrial Parkway South<br>Contact: Catherine Cook<br>Email: CatherineC@yrfn.ca<br>Phone: (905) 841-3101, ext. 203<br>Website: yrfn.ca"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.442114, 44.044112000000005]
+		},
+		"properties": {
+			"name": "YRFN Newmarket Community Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://tcgn.ca/wiki/wiki.php?n=TorontoGardens.YorkRegionFoodNetworkCommunityGardens-Nov2012)<br><br>Location: 800 Mulock Dr<br>Contact: Catherine Cook<br>Email: CatherineC@yrfn.ca<br>Phone: (905) 841-3101, ext. 203<br>Website: yrfn.ca"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.25764, 43.881396]
+		},
+		"properties": {
+			"name": "YRFN Markham Garden",
+			"styleUrl": "#icon-959-FAD199",
+			"styleHash": "-45fe8f3",
+			"description": "Info Page (http://tcgn.ca/wiki/wiki.php?n=TorontoGardens.YorkRegionFoodNetworkCommunityGardens-Nov2012)<br><br>Location: 7 Town Crier Lane<br>Contact: Catherine Cook<br>Email: CatherineC@yrfn.ca<br>Phone: (905) 841-3101, ext. 203<br>Website: yrfn.ca"
+		}
+	}]
+}

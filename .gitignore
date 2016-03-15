@@ -1,0 +1,8 @@
+# OS X
+.DS_Store
+
+# dots and temps
+.svn
+.config
+log/*.log
+tmp/**
