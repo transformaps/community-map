@@ -126,62 +126,24 @@
         <div class="modal-content">
           <div class="modal-header">
             <button class="close" type="button" data-dismiss="modal" aria-hidden="true">&times;</button>
-            <h4 class="modal-title">Welcome to the Toronto Green Map!</h4>
+            <h4 class="modal-title">About the Toronto Green Map</h4>
           </div>
           <div class="modal-body">
             <ul class="nav nav-tabs nav-justified" id="aboutTabs">
               <li class="active"><a href="#about" data-toggle="tab"><i class="fa fa-question-circle"></i>&nbsp;About the project</a></li>
-              <li><a href="#contact" data-toggle="tab"><i class="fa fa-envelope"></i>&nbsp;Contact us</a></li>
-              <li><a href="#disclaimer" data-toggle="tab"><i class="fa fa-exclamation-circle"></i>&nbsp;Disclaimer</a></li>
+              <li><a href="#contact" data-toggle="tab"><i class="fa fa-envelope"></i>&nbsp;Contact</a></li>
             </ul>
             <div class="tab-content" id="aboutTabsContent">
               <div id="about" class="tab-pane fade active in">
-                <div class="panel panel-primary">
-                  <div class="panel-heading">Features</div>
-                  <ul class="list-group">
-                    <li class="list-group-item">Fullscreen mobile-friendly map template with responsive navbar and modal placeholders</li>
-                    <li class="list-group-item">jQuery loading of external GeoJSON files</li>
-                    <li class="list-group-item">Logical multiple layer marker clustering via the <a href="https://github.com/Leaflet/Leaflet.markercluster" target="_blank">leaflet marker cluster plugin</a></li>
-                    <li class="list-group-item">Elegant client-side multi-layer feature search with autocomplete using <a href="http://twitter.github.io/typeahead.js/" target="_blank">typeahead.js</a></li>
-                    <li class="list-group-item">Responsive sidebar feature list synced with map bounds, which includes sorting and filtering via <a href="http://listjs.com/" target="_blank">list.js</a></li>
-                    <li class="list-group-item">Marker icons included in grouped layer control via the <a href="https://github.com/ismyrnow/Leaflet.groupedlayercontrol" target="_blank">grouped layer control plugin</a></li>
-                  </ul>
-                </div>
+                <p>This website is part of a design research project exploring how community maps support discovery of, and participation in, community-based urban agriculture and sustainability initiatives.</p>
                 <p>This site uses Bootleaf, developed by <a href="http://bryanmcbride.com" target="_blank">bryanmcbride.com</a>, a simple, responsive template for building web mapping applications with <a href="http://getbootstrap.com/" target="_blank">Bootstrap 3</a>, <a href="http://leafletjs.com/" target="_blank">Leaflet</a>, and <a href="http://twitter.github.io/typeahead.js/" target="_blank">typeahead.js</a>. Open source, MIT licensed, and available on <a href="https://github.com/bmcbride/bootleaf" target="_blank">GitHub</a>.</p>
-
               </div>
-              <div id="disclaimer" class="tab-pane fade">
-                              </div>
               <div id="contact" class="tab-pane fade">
-                <form id="contact-form">
-                  <div class="well well-sm">
-                    <div class="row">
-                      <div class="col-md-4">
-                        <div class="form-group">
-                          <label for="first-name">First Name:</label>
-                          <input type="text" class="form-control" id="first-name">
-                        </div>
-                        <div class="form-group">
-                          <label for="last-name">Last Name:</label>
-                          <input type="text" class="form-control" id="last-email">
-                        </div>
-                        <div class="form-group">
-                          <label for="email">Email:</label>
-                          <input type="text" class="form-control" id="email">
-                        </div>
-                      </div>
-                      <div class="col-md-8">
-                        <label for="message">Message:</label>
-                        <textarea class="form-control" rows="8" id="message"></textarea>
-                      </div>
-                      <div class="col-md-12">
-                        <p>
-                          <button type="submit" class="btn btn-primary pull-right" data-dismiss="modal">Submit</button>
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                </form>
+                <p>Feedback and submissions are welcome! At this stage there isn't a well established process to add pins. Currently two avenues for feedback exists:</u>
+                <ul>
+                  <li>send an email to info _at_ torontogreenmap dot com</li>
+                  <li>add a comment to the <a href="https://github.com/torontogreenmap/y2gm-prototype/issues" target="_blank"><i class="fa fa-github"></i>&nbsp;&nbsp;Github issue tracker</a></li>
+                </ul>
               </div>
             </div>
           </div>
@@ -201,26 +163,34 @@
             <h4 class="modal-title">Data</h4>
           </div>
           <div class="modal-body">
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-database"></i>&nbsp;Sources <b class="caret"></b></a>
-              <ul class="dropdown-menu">
-                <li><a href="#boroughs-tab" data-toggle="tab">Boroughs</a></li>
-                <li><a href="#subway-lines-tab" data-toggle="tab">Subway Lines</a></li>
-                <li><a href="#theaters-tab" data-toggle="tab">Theaters</a></li>
-                <li><a href="#museums-tab" data-toggle="tab">Museums</a></li>
-              </ul>
-            </li>
-            <div class="tab-pane fade" id="boroughs-tab">
-              <p>Borough data courtesy of <a href="http://www.nyc.gov/html/dcp/pdf/bytes/nybbwi_metadata.pdf" target="_blank">New York City Department of City Planning</a></p>
-            </div>
-            <div class="tab-pane fade" id="subway-lines-tab">
-              <p><a href="http://spatialityblog.com/2010/07/08/mta-gis-data-update/#datalinks" target="_blank">MTA Subway data</a> courtesy of the <a href="http://www.urbanresearch.org/about/cur-components/cuny-mapping-service" target="_blank">CUNY Mapping Service at the Center for Urban Research</a></p>
-            </div>
-            <div class="tab-pane fade" id="theaters-tab">
-              <p>Theater data courtesy of <a href="https://data.cityofnewyork.us/Recreation/Theaters/kdu2-865w" target="_blank">NYC Department of Information & Telecommunications (DoITT)</a></p>
-            </div>
-            <div class="tab-pane fade" id="museums-tab">
-              <p>Museum data courtesy of <a href="https://data.cityofnewyork.us/Recreation/Museums-and-Galleries/sat5-adpb" target="_blank">NYC Department of Information & Telecommunications (DoITT)</a></p>
+            <ul class="nav nav-tabs nav-justified" id="dataTabs">
+              <li class="active"><a href="#source" data-toggle="tab"><i class="fa fa-database"></i>&nbsp;Sources</a></li>
+              <li><a href="#disclaimer" data-toggle="tab"><i class="fa fa-exclamation-circle"></i>&nbsp;Disclaimer</a></li>
+            </ul>
+            <div class="tab-content" id="dataTabsContent">
+              <div id="source" class="tab-pane fade active in">
+                <!-- Table -->
+                <table class="table">
+                  <thead>
+                    <tr>
+                      <th>Name</th>
+                      <th>Source</th>
+                      <th>Download</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td>Community Gardens</td>
+                      <td></td>
+                      <td><a href="http://torontogreenmap.com/data/community-gardens.geojson"><i class="fa fa-download"></i>&nbsp;community-gardens.geojson</a></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <div id="disclaimer" class="tab-pane fade">
+                <p>The data on this site is for informational purposes, no accuracy or completeness guarantee is implied or intended.</p>
+                <p>All information on this map is subject to variations and corrections.</p>
+              </div>
             </div>
           </div>
           <div class="modal-footer">
