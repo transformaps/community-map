@@ -50,9 +50,6 @@
             <li class="hidden-xs"><a href="#" data-toggle="collapse" data-target=".navbar-collapse.in" id="list-btn"><i class="fa fa-list white"></i>&nbsp;&nbsp;POI List</a></li>
             <li class="dropdown">
               <a id="toolsDrop" href="#" role="button" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-globe white"></i>&nbsp;&nbsp;Engagement Tools <b class="caret"></b></a>
-              <ul class="dropdown-menu">
-                <li><a href="#" data-toggle="collapse" data-target=".navbar-collapse.in" id="full-extent-btn"><i class="fa fa-arrows-alt"></i>&nbsp;&nbsp;Zoom To Full Extent</a></li>
-              </ul>
             </li>
           </ul>
         </div><!--/.navbar-collapse -->
@@ -107,6 +104,22 @@
       </div>
     </div> -->
 
+    <!-- FEATURE MODAL -->
+    <div class="modal fade" id="featureModal" tabindex="-1" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button class="close" type="button" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title text-primary" id="feature-title"></h4>
+          </div>
+          <div class="modal-body" id="feature-info"></div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
     <!-- ABOUT MODAL -->
     <div class="modal fade" id="aboutModal" tabindex="-1" role="dialog">
       <div class="modal-dialog modal-lg">
@@ -123,7 +136,6 @@
             </ul>
             <div class="tab-content" id="aboutTabsContent">
               <div id="about" class="tab-pane fade active in">
-                <p>A simple, responsive template for building web mapping applications with <a href="http://getbootstrap.com/">Bootstrap 3</a>, <a href="http://leafletjs.com/" target="_blank">Leaflet</a>, and <a href="http://twitter.github.io/typeahead.js/" target="_blank">typeahead.js</a>. Open source, MIT licensed, and available on <a href="https://github.com/bmcbride/bootleaf" target="_blank">GitHub</a>.</p>
                 <div class="panel panel-primary">
                   <div class="panel-heading">Features</div>
                   <ul class="list-group">
@@ -135,10 +147,11 @@
                     <li class="list-group-item">Marker icons included in grouped layer control via the <a href="https://github.com/ismyrnow/Leaflet.groupedlayercontrol" target="_blank">grouped layer control plugin</a></li>
                   </ul>
                 </div>
+                <p>This site uses Bootleaf, developed by <a href="http://bryanmcbride.com" target="_blank">bryanmcbride.com</a>, a simple, responsive template for building web mapping applications with <a href="http://getbootstrap.com/" target="_blank">Bootstrap 3</a>, <a href="http://leafletjs.com/" target="_blank">Leaflet</a>, and <a href="http://twitter.github.io/typeahead.js/" target="_blank">typeahead.js</a>. Open source, MIT licensed, and available on <a href="https://github.com/bmcbride/bootleaf" target="_blank">GitHub</a>.</p>
+
               </div>
               <div id="disclaimer" class="tab-pane fade">
-                <p>This site uses Bootleaf, developed by <a href="http://bryanmcbride.com" target="_blank">bryanmcbride.com</a></p>
-              </div>
+                              </div>
               <div id="contact" class="tab-pane fade">
                 <form id="contact-form">
                   <div class="well well-sm">
@@ -217,7 +230,7 @@
       </div><!-- /.modal-dialog -->
     </div><!-- /.modal -->
 
-    <!-- LOGIN MODAL
+    <!-- LOGIN MODAL -->
     <div class="modal fade" id="loginModal" tabindex="-1" role="dialog">
       <div class="modal-dialog modal-sm">
         <div class="modal-content">
@@ -243,9 +256,9 @@
             <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
             <button type="submit" class="btn btn-primary" data-dismiss="modal">Login</button>
           </div>
-        </div> /.modal-content
-      </div> /.modal-dialog
-    </div> /.modal -->
+        </div> <!-- /.modal-content  -->
+      </div> <!-- /.modal-dialog  -->
+    </div> <!-- /.modal -->
 
 
     <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
