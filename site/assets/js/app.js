@@ -169,7 +169,7 @@ var cGardens = L.geoJson(null, {
         '<tr class="feature-row" id="' + L.stamp(layer) +
         '" lat="' + layer.getLatLng().lat + '" lng="' +
         layer.getLatLng().lng +
-        '"><td style="vertical-align: middle"><img width="16" height="18" src="assets/img/assets/img/garden-18.png"></td><td class="feature-name">' +
+        '"><td style="vertical-align: middle"><img width="16" height="18" src="assets/img/garden-18.png"></td><td class="feature-name">' +
         layer.feature.properties.name +
         '</td><td style="vertical-align: middle"><i class="fa fa-chevron-right pull-right"></i></td></tr>'
       )
@@ -225,12 +225,14 @@ function updateAttribution (e) {
 }
 map.on('layeradd', updateAttribution)
 map.on('layerremove', updateAttribution)
+
 /* Larger screens get expanded layer control and visible sidebar */
 if (document.body.clientWidth <= 767) {
   var isCollapsed = true
 } else {
   var isCollapsed = false
 }
+
 var baseLayers = {
   'Street Map': mapboxOSM,
   'Aerial Imagery': mapboxSAT,
@@ -244,6 +246,7 @@ var groupedOverlays = {
 var layerControl = L.control.groupedLayers(baseLayers, groupedOverlays, {
   collapsed: isCollapsed
 }).addTo(map)
+
 /* Highlight search box text on click */
 $('#searchbox').click(function () {
   $(this).select()
@@ -263,11 +266,13 @@ $(document).one('ajaxStop', function () {
   $('#loading').hide()
   sizeLayerControl()
 
+  /* Fit map to boroughs bounds */
+  map.fitBounds(cGardens.getBounds())
   featureList = new List('features', {valueNames: ['feature-name']})
   featureList.sort('feature-name', {order: 'asc'})
 
   var cGardensBH = new Bloodhound({
-    name: 'Community Gardens',
+    name: 'CommunityGardens',
     datumTokenizer: function (d) {
       return Bloodhound.tokenizers.whitespace(d.name)
     },
@@ -286,8 +291,7 @@ $(document).one('ajaxStop', function () {
       filter: function (data) {
         return $.map(data.geonames, function (result) {
           return {
-            name: result.name + ', ' +
-              result.adminCode1,
+            name: result.name + ', ' + result.adminCode1,
             lat: result.lat,
             lng: result.lng,
             source: 'GeoNames'
@@ -335,7 +339,8 @@ $(document).one('ajaxStop', function () {
     displayKey: 'name',
     source: geonamesBH.ttAdapter(),
     templates: {
-      header: '<h4 class="typeahead-header"><img src="assets/img/globe.png" width="25" height="25">&nbspGeoNames</h4>'
+      header: '<h4 class="typeahead-header"><img src="assets/img/globe.png" width="25" height="25">&nbspGeoNames</h4>',
+      suggestion: Handlebars.compile(['{{name}}'].join(''))
     }
   }).on('typeahead:selected', function (obj, datum) {
     if (datum.source === 'Community Gardens') {
