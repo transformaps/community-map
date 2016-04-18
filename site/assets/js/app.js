@@ -1,5 +1,7 @@
-/* Variables for map and features initalized */
-var map, featureList, cGardensSearch = [];
+/* Variables initalized */
+var map; // for leaflet map
+var featureList, cGardensSearch = []; //for typeahead search bloodhounds
+
 $(window).resize(function() {
     sizeLayerControl();
 });
@@ -257,10 +259,15 @@ $("#searchbox").keypress(function(e) {
 $("#featureModal").on("hidden.bs.modal", function(e) {
     $(document).on("mouseout", ".feature-row", clearHighlight);
 });
+
 /* Typeahead search functionality */
 $(document).one("ajaxStop", function() {
     $("#loading").hide();
     sizeLayerControl();
+
+    featureList = new List("features", {valueNames: ["feature-name"]});
+    featureList.sort("feature-name", {order:"asc"});
+
     var cGardensBH = new Bloodhound({
         name: "Community Gardens",
         datumTokenizer: function(d) {
@@ -277,7 +284,7 @@ $(document).one("ajaxStop", function() {
         },
         queryTokenizer: Bloodhound.tokenizers.whitespace,
         remote: {
-            url: "http://api.geonames.org/searchJSON?username=bootleaf&featureClass=P&maxRows=5&countryCode=US&name_startsWith=%QUERY",
+            url: "http://api.geonames.org/searchJSON?username=torontogreenmap&featureClass=P&maxRows=5&countryCode=CA&name_startsWith=%QUERY",
             filter: function(data) {
                 return $.map(data.geonames, function(result) {
                     return {
@@ -311,6 +318,7 @@ $(document).one("ajaxStop", function() {
     });
     cGardensBH.initialize();
     geonamesBH.initialize();
+
     /* instantiate the typeahead UI */
     $("#searchbox").typeahead({
         minLength: 3,
